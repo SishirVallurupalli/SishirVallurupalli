@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SishirVallurupalli
 - 👀 I’m interested in Software Engeneering
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Computer Science at ASU
 - 📫 How to reach me sishir.vallurupalli@gmail.com
 
 <!---
